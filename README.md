@@ -401,7 +401,7 @@ Need help? Found a bug?
 
 **⭐ If you find this project useful, please give it a star! ⭐**
 
-Made with ❤️ by [Arman Bin Tahir](https://github.com/Arman-1337)
+Made by [Arman Bin Tahir](https://github.com/Arman-1337)
 
 **For educational and authorized security testing purposes only.**
 
